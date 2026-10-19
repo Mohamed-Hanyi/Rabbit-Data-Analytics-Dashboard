@@ -6,7 +6,7 @@ An interactive and modern Power BI dashboard designed for Rabbit Data Analytics.
 
 ## Dashboard Preview
 
-![Dashboard Preview](your-image-url-or-path-here.png)
+![Dashboard Preview](https://github.com/Mohamed-Hanyi/Rabbit-Data-Analytics-Dashboard/blob/main/Screenshot%202026-09-17%20192257.png)
 
 Check out the full interactive video walkthrough on my LinkedIn Post: [LinkedIn Post Link](YOUR_LINKEDIN_POST_URL_HERE)
 
